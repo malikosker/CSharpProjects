@@ -1,0 +1,217 @@
+C:\Users\burak\source\repos\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\burak\source\repos\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\burak\source\repos\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\burak\source\repos\KordSA\KordSA\bin\Debug\EasyModbus.dll
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\burak\source\repos\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\burak\source\repos\KordSA\KordSA\bin\Debug\SevenSegment.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\Area\Desktop\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\Area\Desktop\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\Area\Desktop\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\Area\Desktop\KordSA\KordSA\obj\Debug\KordSA.pdb
+D:\KordSA\KordSA\bin\Debug\KordSA.exe.config
+D:\KordSA\KordSA\bin\Debug\KordSA.exe
+D:\KordSA\KordSA\bin\Debug\KordSA.pdb
+D:\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+D:\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+D:\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+D:\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+D:\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+D:\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+D:\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+D:\KordSA\KordSA\obj\Debug\KordSA.exe
+D:\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.pdb
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\bin\Debug\KordSA.exe.config
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\bin\Debug\KordSA.exe
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\bin\Debug\KordSA.pdb
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.exe
+D:\gereksiz registerlar kapatıldı\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\25.01.2019 ürün izleme stabil hale getirildi\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\son hal\son hal\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\kordsa\27.02.2019\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\kordsa\27.02.2019\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\kordsa\27.02.2019\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\kordsa\27.02.2019\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\kordsa\29.02.2019\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\kordsa\29.02.2019\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\kordsa\29.02.2019\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\kordsa\29.02.2019\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\kordsa\IOException\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\kordsa\IOException\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\kordsa\IOException\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\kordsa\IOException\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\IOException\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\kordsa\06.03.2019 timer hatası\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\h4strech\Desktop\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\kordsa\07.03.2019\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\kordsa\07.03.2019\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\kordsa\07.03.2019\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\kordsa\07.03.2019\KordSA\KordSA\obj\Debug\KordSA.pdb
+F:\kordsa\08.03.2019\KordSA\KordSA\bin\Debug\KordSA.exe.config
+F:\kordsa\08.03.2019\KordSA\KordSA\bin\Debug\KordSA.exe
+F:\kordsa\08.03.2019\KordSA\KordSA\bin\Debug\KordSA.pdb
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.exe
+F:\kordsa\08.03.2019\KordSA\KordSA\obj\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\bin\Debug\KordSA.exe.config
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\bin\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\bin\Debug\KordSA.pdb
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.csprojAssemblyReference.cache
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.Form1.resources
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.Properties.Resources.resources
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.Urun.resources
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.csproj.GenerateResource.cache
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.csproj.CoreCompileInputs.cache
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.csproj.CopyComplete
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.exe
+C:\Users\h4strech\Desktop\08.03.2019 ek istekler\KordSA\KordSA\obj\Debug\KordSA.pdb

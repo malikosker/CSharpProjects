@@ -1,0 +1,44 @@
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PaletlemeUygulaması.exe.config
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PaletlemeUygulaması.exe
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PaletlemeUygulaması.pdb
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.Form1.resources
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.Properties.Resources.resources
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.csproj.CopyComplete
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.exe
+C:\Users\burak\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PaletlemeUygulaması.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.pdb
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe.config
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.pdb
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csprojAssemblyReference.cache
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Form1.resources
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Properties.Resources.resources
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.GenerateResource.cache
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CoreCompileInputs.cache
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CopyComplete
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.exe
+D:\yeni bilgisayar için burak\burak\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.pdb
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe.config
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.pdb
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csprojAssemblyReference.cache
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Form1.resources
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Properties.Resources.resources
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.GenerateResource.cache
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CoreCompileInputs.cache
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CopyComplete
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.exe
+D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.pdb
